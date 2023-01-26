@@ -11,7 +11,7 @@ let winning_number =  Math.floor(Math.random() * 3);
 function resetPage() {
     location.reload();
 }
-console.log(winning_number);
+
   
   
    
